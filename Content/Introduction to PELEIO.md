@@ -1,3 +1,5 @@
+# INTRODUCTION TO PELEIO
+
 ## PELEIO STORYTELLING
 Our video storytelling technique is a simple process that organizes a story into seven main sections for collecting footage at home, in-house, or in any low-budget way. PELEIO Storytelling is intended to help organize what someone has to say, sell, promote, or share, into an effective video story for our online age.
 
