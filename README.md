@@ -1,4 +1,4 @@
-# Video-Storytelling-Guide
+# PELEIO Video Storytelling Guide
 This project is part of a bigger effort to to make the video storytelling production process more accessible to the average human being. By encouraging non-formal education, empowering in-house video production, and incentivizing p2p networking we hope to eventually connect enough people that we can receive our information of the world without third-party interference. 
 
 This particular guide seeks to introduce how storytelling works and how we can use it to produce media indepdently and affordably.
@@ -13,6 +13,9 @@ This particular guide seeks to introduce how storytelling works and how we can u
 #### [Creative Additions]
 #### [IRL: Extra Thoughts & Notes]
 #### [Conclusion]
+
+## Formats
+For now, this guide is only available here on GitHub and as a PDF (free to download on [our website](https://pele.io)). If you have ideas or are interested in contributing to offering new formats, please contact us.
 
 ## Feedback
 All constructive feedback is welcome should please be opened as issues in the tracker.
