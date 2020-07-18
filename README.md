@@ -4,15 +4,15 @@ This project is part of a bigger effort to to make the video storytelling produc
 This particular guide seeks to introduce how storytelling works and how we can use it to produce media indepdently and affordably.
 
 ## Table of Contents
-[Overview](https://github.com/PELEIO/Video-Storytelling-Guide/blob/master/Content/1.%20Overview.md)
-[Introduction](https://github.com/PELEIO/Video-Storytelling-Guide/blob/master/Content/2.%20Introduction%20to%20PELEIO.md)
-[Organizing the Story](https://github.com/PELEIO/Video-Storytelling-Guide/blob/master/Content/3.%20Organizing%20the%20Story.md)
-[Telling the Story]
-[Collecting the Story]
-[Enhancing the Story]
-[Creative Additions]
-[IRL: Extra Thoughts & Notes]
-[Conclusion]
+#### [Overview](https://github.com/PELEIO/Video-Storytelling-Guide/blob/master/Content/1.%20Overview.md)
+#### [Introduction](https://github.com/PELEIO/Video-Storytelling-Guide/blob/master/Content/2.%20Introduction%20to%20PELEIO.md)
+#### [Organizing the Story](https://github.com/PELEIO/Video-Storytelling-Guide/blob/master/Content/3.%20Organizing%20the%20Story.md)
+#### [Telling the Story]
+#### [Collecting the Story]
+#### [Enhancing the Story]
+#### [Creative Additions]
+#### [IRL: Extra Thoughts & Notes]
+#### [Conclusion]
 
 ## Feedback
 All constructive feedback is welcome should please be opened as issues in the tracker.
@@ -27,7 +27,7 @@ Image/Diagram Enhancement: any images you believe will complement the text, or u
 This is still a WIP, but we will welcome translations when things are finished... To translate the book, create a sub-directory of the project, give it the correct ISO639 code, and then submit a pull request.
 
 ## License
-This content is licensed as [Creative Commons Sharealike](https://creativecommons.org/licenses/by-sa/4.0/)
+This content is licensed as [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 We’d love to work with you to make this guide an all-in-one resource for those of us that cannot afford big production budgets and creative agency fees. This is a project for everyone that recognizes the importance of reclaiming the power of storytelling in our society.
 
