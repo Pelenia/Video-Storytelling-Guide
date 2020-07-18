@@ -1,4 +1,4 @@
-![PELEIO Video Storytelling Community](https://i2.wp.com/www.pele.io/wp-content/uploads/2020/06/LOGO_June-3D.png)
+<img src="https://i2.wp.com/www.pele.io/wp-content/uploads/2020/06/LOGO_June-3D.png" width=300 height=104>
 
 # PELEIO Video Storytelling Guide
 This project is part of a bigger effort to to make the video storytelling production process more accessible to the average human being. By encouraging non-formal education, empowering in-house video production, and incentivizing p2p networking we hope to eventually connect enough people that we can receive our information of the world without third-party interference. 
