@@ -1,35 +1,24 @@
-<img src="https://i2.wp.com/www.pele.io/wp-content/uploads/2020/06/LOGO_June-3D.png" width=300 height=104>
+<img src="~/img/logo-small.png">
 
-# PELEIO Video Storytelling Guide
+# PELE Video Storytelling Guide
 This project is part of a bigger effort to to make the video storytelling production process more accessible to the average human being. By encouraging non-formal education, empowering in-house video production, and incentivizing p2p networking we hope to eventually connect enough people that we can receive our information of the world without third-party interference. 
 
 This particular guide seeks to introduce how storytelling works and how we can use it to produce media indepdently and affordably.
 
 ## Table of Contents
-<<<<<<< HEAD
-#### [1. Overview](https://github.com/PELEIO/Video-Storytelling-Guide/blob/master/Content/1.%20Overview.md)
-#### [2. Introduction](https://github.com/PELEIO/Video-Storytelling-Guide/blob/master/Content/2.%20Introduction%20to%20PELEIO.md)
-#### [3. Organizing the Story](https://github.com/PELEIO/Video-Storytelling-Guide/blob/master/Content/3.%20Organizing%20the%20Story.md)
-#### [4. Telling the Story](https://github.com/PELEIO/Video-Storytelling-Guide/blob/master/Content/4.%20Telling%20the%20Story.md)
-#### [5. Collecting the Story](https://github.com/PELEIO/Video-Storytelling-Guide/blob/master/Content/5.%20Collecting%20the%20Story.md)
-#### [6. Enhancing the Story](https://github.com/PELEIO/Video-Storytelling-Guide/blob/master/Content/6.%20Enhancing%20the%20Story.md)
-#### [7. Creative Additions](https://github.com/PELEIO/Video-Storytelling-Guide/blob/master/Content/7.%20Creative%20Additions.md)
-#### [8. IRL: Extra Thoughts & Notes](https://github.com/PELEIO/Video-Storytelling-Guide/blob/master/Content/8.%20IRL:%20Extra%20Thoughts%20%26%20Notes.md)
-#### [9. Conclusion](https://github.com/PELEIO/Video-Storytelling-Guide/blob/master/Content/9.%20Conclusion.md)
-=======
-#### [1. Overview](https://github.com/pelenetwork/Video-Storytelling-Guide/blob/master/Content/1.%20Overview.md)
-#### [2. Introduction](https://github.com/pelenetwork/Video-Storytelling-Guide/blob/master/Content/2.%20Introduction%20to%20PELEIO.md)
-#### [3. Organizing the Story](https://github.com/pelenetwork/Video-Storytelling-Guide/blob/master/Content/3.%20Organizing%20the%20Story.md)
-#### [4. Telling the Story](https://github.com/pelenetwork/Video-Storytelling-Guide/blob/master/Content/4.%20Telling%20the%20Story.md)
-#### [5. Collecting the Story](https://github.com/pelenetwork/Video-Storytelling-Guide/blob/master/Content/5.%20Collecting%20the%20Story.md)
-#### [6. Enhancing the Story](https://github.com/pelenetwork/Video-Storytelling-Guide/blob/master/Content/6.%20Enhancing%20the%20Story.md)
-#### [7. Creative Additions](https://github.com/pelenetwork/Video-Storytelling-Guide/blob/master/Content/7.%20Creative%20Additions.md)
-#### [8. IRL: Extra Thoughts & Notes](https://github.com/pelenetwork/Video-Storytelling-Guide/blob/master/Content/8.%20IRL:%20Extra%20Thoughts%20%26%20Notes.md)
-#### [9. Conclusion](https://github.com/pelenetwork/Video-Storytelling-Guide/blob/master/Content/9.%20Conclusion.md)
->>>>>>> 16dc733 (bring up to date all files)
+#### [1. Overview](https://github.com/pelenetwork/Video-Storytelling-Guide/blob/master/Content/01.%20Overview.md)
+#### [2. Introduction](https://github.com/pelenetwork/Video-Storytelling-Guide/blob/master/Content/02.%20Introduction%20to%20PELE.md)
+#### [3. Organizing the Story](https://github.com/pelenetwork/Video-Storytelling-Guide/blob/master/Content/03.%20Organizing%20the%20Story.md)
+#### [4. Telling the Story](https://github.com/pelenetwork/Video-Storytelling-Guide/blob/master/Content/04.%20Telling%20the%20Story.md)
+#### [5. Equipment & Location](https://github.com/pelenetwork/Video-Storytelling-Guide/blob/master/Content/05.%20Equipment.md)
+#### [6. Collecting the Story](https://github.com/pelenetwork/Video-Storytelling-Guide/blob/master/Content/06.%20Collecting%20the%20Story.md)
+#### [7. Enhancing the Story](https://github.com/pelenetwork/Video-Storytelling-Guide/blob/master/Content/07.%20Enhancing%20the%20Story.md)
+#### [8. Creative Additions](https://github.com/pelenetwork/Video-Storytelling-Guide/blob/master/Content/08.%20Creative%20Additions.md)
+#### [9. IRL: Extra Thoughts & Notes](https://github.com/pelenetwork/Video-Storytelling-Guide/blob/master/Content/09.%20IRLWorking%20With%20Others.md)
+#### [10. Conclusion](https://github.com/pelenetwork/Video-Storytelling-Guide/blob/master/Content/10.%20Conclusion.md)
 
 ## Formats
-For now, this guide is only available here on GitHub and as a PDF (free to download on [our website](https://pele.io)). If you have ideas or are interested in contributing to offering new formats, please contact us.
+For now, this guide is only available here on GitHub and as a PDF (free to download on [our website](https://pele.network)). If you have ideas or are interested in contributing to offering new formats, please contact us.
 
 ## Feedback
 All constructive feedback is welcome should please be opened as issues in the tracker.
@@ -53,4 +42,4 @@ We’d love to work with you to make this guide an all-in-one resource for those
 
 Alternatively, if you have experience in storytelling, we welcome your feedback. We are well aware that there may be things missing here, things that could be expanded upon, and things that might need clarification.
 
-[https://www.pele.io](https://www.pele.io)
+[https://www.pele.network](www.pele.network)
